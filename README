@@ -1,0 +1,3 @@
+This is a CNN model which is used to find a COVID-19 X-ray from a dataset of chest X-rays. 
+The chest X-ray dataset is taken from Kaggle and the COVID-19 X-rAY Dataset is taken from https://github.com/ieee8023/covid-chestxray-dataset.
+The created CNN model has an accuracy of 96.67% in detecting positive COVID-19 cases from the given set of X-rays
